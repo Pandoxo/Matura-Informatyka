@@ -1,0 +1,10 @@
+zd4.1
+458
+
+zd4.2
+podzielne przez 2: 500
+podzielne przez 8: 138
+
+zd4.3
+wiersz najmniejszej liczby to: 859
+wiersz najwiekszej liczby to: 925
