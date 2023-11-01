@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ed493ad-b952-480b-b336-8b7b49e46588" name="Changes" comment="matura 2016">
+    <list default="true" id="7ed493ad-b952-480b-b336-8b7b49e46588" name="Changes" comment="excel">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2023_22_02_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2023_22_05_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/git.ignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +116,63 @@
       <option name="project" value="LOCAL" />
       <updated>1698004877529</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="matura 2016">
+      <option name="closed" value="true" />
+      <created>1698079021545</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698079021545</updated>
+    </task>
+    <task id="LOCAL-00008" summary="matura 2015">
+      <option name="closed" value="true" />
+      <created>1698079053512</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698079053512</updated>
+    </task>
+    <task id="LOCAL-00009" summary="matura 2015">
+      <option name="closed" value="true" />
+      <created>1698079158848</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698079158848</updated>
+    </task>
+    <task id="LOCAL-00010" summary="matura2023 czerwiec">
+      <option name="closed" value="true" />
+      <created>1698435265636</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698435265636</updated>
+    </task>
+    <task id="LOCAL-00011" summary="matura2017 zd 5">
+      <option name="closed" value="true" />
+      <created>1698435288124</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698435288124</updated>
+    </task>
+    <task id="LOCAL-00012" summary="poprawki">
+      <option name="closed" value="true" />
+      <created>1698436995940</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698436995940</updated>
+    </task>
+    <task id="LOCAL-00013" summary="excel">
+      <option name="closed" value="true" />
+      <created>1698619578510</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1698619578510</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,7 +190,12 @@
     <MESSAGE value="Wszystkie zadanie jakie dotychczas zrobilem" />
     <MESSAGE value="ukrycie plików .idea" />
     <MESSAGE value="matura 2016" />
-    <option name="LAST_COMMIT_MESSAGE" value="matura 2016" />
+    <MESSAGE value="matura 2015" />
+    <MESSAGE value="matura2023 czerwiec" />
+    <MESSAGE value="matura2017 zd 5" />
+    <MESSAGE value="poprawki" />
+    <MESSAGE value="excel" />
+    <option name="LAST_COMMIT_MESSAGE" value="excel" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -141,12 +205,17 @@
           <line>6</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Matura2023/zd3.1.py</url>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="i" language="Python" />
         <watch expression="len(txt)" language="Python" />
+        <watch expression="file[i]" language="Python" />
       </configuration>
     </watches-manager>
   </component>
