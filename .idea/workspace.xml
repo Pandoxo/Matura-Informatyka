@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ed493ad-b952-480b-b336-8b7b49e46588" name="Changes" comment="excel">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2023_18_39_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2023_18_39__Changes_.xml" beforeDir="false" />
+    <list default="true" id="7ed493ad-b952-480b-b336-8b7b49e46588" name="Changes" comment="matura 2022 czerwiec">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698619578510</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="matura 2022 czerwiec">
+      <option name="closed" value="true" />
+      <created>1700422569237</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1700422569237</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,7 +200,8 @@
     <MESSAGE value="matura2017 zd 5" />
     <MESSAGE value="poprawki" />
     <MESSAGE value="excel" />
-    <option name="LAST_COMMIT_MESSAGE" value="excel" />
+    <MESSAGE value="matura 2022 czerwiec" />
+    <option name="LAST_COMMIT_MESSAGE" value="matura 2022 czerwiec" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
