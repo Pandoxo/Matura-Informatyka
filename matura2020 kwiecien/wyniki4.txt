@@ -1,0 +1,14 @@
+zd 4.1
+najmniejsza luka: 1
+największa luka: 1056392131
+
+zd 4.2
+największa długość: 17
+pierwszy element: 193134524
+ostatni element: 223545714
+
+zd4.3
+maksymalna krotnosc: 31
+najczestsze luki:
+149
+11
