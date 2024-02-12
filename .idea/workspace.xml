@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ed493ad-b952-480b-b336-8b7b49e46588" name="Changes" comment="matura 2022 czerwiec">
+    <list default="true" id="7ed493ad-b952-480b-b336-8b7b49e46588" name="Changes" comment="matura 2020 kwiecien">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2021 marzec/Dane_2103/czasy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2021 marzec/Dane_2103/galerie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2021 marzec/Dane_2103/galerie_przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2021 marzec/Dane_2103/grupy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2021 marzec/Dane_2103/startujacy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2021 marzec/Dane_2103/telefony.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2021 marzec/Dane_2103/zawodnicy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023 czerwiec/wyniki3.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +57,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
@@ -177,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700422569237</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="matura 2020 kwiecien">
+      <option name="closed" value="true" />
+      <created>1703887961891</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1703887961891</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,7 +218,8 @@
     <MESSAGE value="poprawki" />
     <MESSAGE value="excel" />
     <MESSAGE value="matura 2022 czerwiec" />
-    <option name="LAST_COMMIT_MESSAGE" value="matura 2022 czerwiec" />
+    <MESSAGE value="matura 2020 kwiecien" />
+    <option name="LAST_COMMIT_MESSAGE" value="matura 2020 kwiecien" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -215,14 +233,28 @@
           <url>file://$PROJECT_DIR$/Matura2023/zd3.1.py</url>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Matura2021 marzec/zd4.3.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Matura2019 czerwiec/zd4.3.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="i" language="Python" />
-        <watch expression="len(txt)" language="Python" />
-        <watch expression="file[i]" language="Python" />
-        <watch expression="result" language="Python" />
+        <watch expression="len(pal)" language="Python" />
       </configuration>
     </watches-manager>
   </component>
