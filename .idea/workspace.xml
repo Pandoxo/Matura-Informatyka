@@ -5,15 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ed493ad-b952-480b-b336-8b7b49e46588" name="Changes" comment="matura 2020 kwiecien">
+      <change afterPath="$PROJECT_DIR$/Matura2023 marzec/zd3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matura2023 marzec/zd3.5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matura2021 marzec/Dane_2103/czasy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matura2021 marzec/Dane_2103/galerie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matura2021 marzec/Dane_2103/galerie_przyklad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matura2021 marzec/Dane_2103/grupy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matura2021 marzec/Dane_2103/startujacy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matura2021 marzec/Dane_2103/telefony.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matura2021 marzec/Dane_2103/zawodnicy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matura2023 czerwiec/wyniki3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/.idea/Matura2023.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/bin.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/bin_przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/gracze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/gry.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/oceny.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/odp_bin_przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/owoce.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/pi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/pi_przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/wyniki2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/wyniki3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/zd2.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/zd2.2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/zd2.3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/zd2.5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/zd3.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/zd3.2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/zd3.3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matura2023/zd3.4.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,16 +74,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowRun.ShowToolbar": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/polis/PycharmProjects/Matura-Informatyka",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\polis\PycharmProjects\Matura-Informatyka\Matura2020 Operon" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -243,6 +268,46 @@
           <line>21</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Matura Umka/zd4.4.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Matura Umka/zd4.4.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Matura2020 Operon/zd41.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Matura2019 stara/zd4.3.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Matura2019 stara/zd4.3.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Matura2023 marzec/zd1.1.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Matura2023 marzec/zd2.2.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Matura2023 marzec/zd1.3.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -254,7 +319,7 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="len(pal)" language="Python" />
+        <watch expression="plansza[i][j]" language="Python" />
       </configuration>
     </watches-manager>
   </component>
