@@ -16,7 +16,7 @@ while i < len(file):
 szachy.pop()
 
 
-def sprawdzPoziomo(plansza, wieza):
+def sprawdzPoziomo(plansza, wieza, kolor):
     i = wieza[0]
     j = wieza[1]
     # -->
