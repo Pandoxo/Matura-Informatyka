@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ed493ad-b952-480b-b336-8b7b49e46588" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Matura2022 czerwiec/zd2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matura2022 grudzien/zd1.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matura2022 grudzien/zd1.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matura2022 grudzien/zd1.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matura2022 grudzien/zd2.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matura2022 grudzien/zd3.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matura2022 grudzien/zd3.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matura2022 grudzien/zd3.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matura2018 czerwiec/zd4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matura2018 czerwiec/zd4.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,19 +50,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/polis/PycharmProjects/Matura-Informatyka&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowRun.ShowToolbar": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/polis/PycharmProjects/Matura-Informatyka",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\WozniakHubert\PycharmProjects\Matura-Informatyka\Matura2018 czerwiec\NM_DANE_PR" />
       <recent name="C:\Users\polis\PycharmProjects\Matura-Informatyka\Matura2020 Operon" />
     </key>
   </component>
@@ -330,6 +326,11 @@
           <url>file://$PROJECT_DIR$/Matura2022 grudzien/zd1.3.py</url>
           <line>10</line>
           <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Matura2018 czerwiec/zd4.3.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
